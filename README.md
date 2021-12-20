@@ -1,9 +1,9 @@
 ### Hi there 👋
-Hello, my name is Weicheng Ao, currently a second year Computer Science student at the University of Manchester.
-Nice to meet you, shall we play 😄?
-I'm currently working on my revision towards the end-of-term examination.
-I have lots of fun projects, do you want to see them all?
-Just Do It. ⚡
+<p>Hi there 👋, my name is Weicheng Ao, currently a second year Computer Science student at the University of Manchester.</p>
+<p>Nice to meet you, shall we play 😄?</p>
+<p>I'm currently working on my revision towards the end-of-term examination.</p>
+<p>I have lots of fun projects, do you want to spot them all?</p>
+<p>Just Do It. ⚡</p>
 
 <!--
 **Weicheng783/weicheng783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
